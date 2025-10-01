@@ -10,8 +10,7 @@ How is ARPPU (Average Revenue per Paid User) evolving over time?
 Where do we lose the most — churn or revenue contraction?
 This dashboard is not just about numbers. It helps shape strategy: balancing acquisition, retention, and expansion.
 
-![Image alt](https://github.com/TetianaVenhlievska/Revenue-metrics/issues/1)
-
+![alt text](<Revenue Metrics.png>)
 
 ## Main stages
 
